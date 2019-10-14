@@ -1,7 +1,7 @@
 # digit_recognizer
 
-Kaggle Digit Recognize project using MNIST data
- 
+Kaggle Digit Recognizer project using MNIST data
+
 ## Set up in Mac
 
 ```sh
@@ -11,7 +11,7 @@ source ./venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Set up in Windows
+## Set up in Windows
 
 ```sh
 pip install virtualenv
